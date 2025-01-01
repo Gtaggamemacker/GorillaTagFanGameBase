@@ -9,6 +9,7 @@ LINKS
 https://unity.com/unity-hub
 https://www.photonengine.com
 https://developer.playfab.com/en-us/sign-up
+https://www.youtube.com/@B.Awesome
 
 UNITY PACGES
 https://github.com/PlayFab/UnitySDK/releases/tag/2.206.241122
