@@ -1,9 +1,10 @@
 STEPS
 1-Open unity hub
-2-select add 
-3-select add project from disk
+2-Open unity
+3-Go to your files
 4-select your game file what you downloaded
-5-Done
+5-drag the file in to your unity project
+6-Done
 
 LINKS
 https://unity.com/unity-hub
